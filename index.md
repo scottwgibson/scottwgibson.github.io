@@ -1,7 +1,7 @@
 ## Experience
 
 
-### Oct 2019 - Sept 2020 | Vivy GmbH 
+#### Oct 2019 - Sept 2020 | Vivy GmbH 
 **Senior Backend Developer**
 
 - Backend application development in Java 11+ with Spring including additional development in Go and JS.
@@ -12,7 +12,7 @@
 - Creation of technical documentation include data flow and risk assessments for data authority compliance.
 - Involved with organizing and running internal events and team building exercises such as game nights and quiz nights.
 
-Dec 2014 - Sep 2019 | dunnhumby Germany (Prev. Sociomantic Labs GmbH)
+#### Dec 2014 - Sep 2019 | dunnhumby Germany (Prev. Sociomantic Labs GmbH)
 **Software Developer -> Senior Software Developer -> Team Lead**
 
 - Designed, developed and maintained several high-traffic backend applications in an event-based microservice architecture with distributed message queues, hash tables and log store.

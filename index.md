@@ -26,3 +26,12 @@
 - Working as part of an agile software department of ~60 developers to provide 5 major releases of realistic training simulations for mining machines.
 - Primary development in C++ and additional development in C# with involvement in automated and manual testing utilizing.
 - Part of project management including project planning and issue management with the use of Jira and Scrum. 
+
+## Education
+
+#### Feb 2009 - Dec 2011 | Murdoch University - Western Australia
+**Bachelor of Science (Computer Science / Games Technology Double Major)**
+
+- Studied core software development principles including data structures and abstraction, programming paradigms, algorithms and architecture and developing in multiple languages. 
+- Vice Chancellor's Commendation (2009 and 2010)
+- School of Information Technology Communication Prize – Semester 2 (2011) and WA Industry Selected Games Design and Programming Nomination (2010) 

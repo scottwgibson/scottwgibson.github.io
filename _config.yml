@@ -5,12 +5,12 @@ url: "https://about.scottwgibson.com"
 # THEME-SPECIFIC CONFIGURATION
 title: Scott Gibson                                    # site's title
 description: "All round software developer, gamer, photographer and drummer."      # used by search engines
-avatar: assets/img/triangle.png                         # Empty for no avatar in navbar
+avatar: assets/img/logo.jpeg                         # Empty for no avatar in navbar
 favicon: assets/favicon.ico                             # Icon displayed in the tab
 
 # Header and footer text
-header_text: Change <code>header_text</code> in <code>_config.yml</code>  # Change Blog header text
-header_feature_image: assets/img/pexels/triangular.jpeg
+header_text: All round software developer, gamer, photographer and drummer.  # Change Blog header text
+header_feature_image: assets/img/photography/SWG_7145_DxO.jpg
 footer_text: >
   " "
 
